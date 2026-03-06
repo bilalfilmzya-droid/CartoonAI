@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0F0C29</color>
+    <color name="header_bg">#1A1535</color>
+    <color name="purple_main">#7C3AED</color>
+    <color name="purple_light">#A78BFA</color>
+    <color name="pink_main">#EC4899</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_muted">#6B7280</color>
+    <color name="card_bg">#1A1535</color>
+    <color name="filter_active">#5B21B6</color>
+    <color name="filter_inactive">#1E1B4B</color>
+    <color name="filter_border">#3730A3</color>
+</resources>
